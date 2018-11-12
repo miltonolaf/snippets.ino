@@ -1,6 +1,6 @@
 float in_ph = A0;
 float in_th = A2;
-float photo_r, value, threshold; 
+float photo_r, value, threshold;
 
 void setup() {
   Serial.begin(9600);
